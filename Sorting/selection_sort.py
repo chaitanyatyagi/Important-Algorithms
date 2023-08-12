@@ -1,4 +1,5 @@
 # Selection Sorting -------> Time Complexity = O(n^2)
+# Select the minimum and put it to the left
 
 def selection_sort(array):
     n = len(array)

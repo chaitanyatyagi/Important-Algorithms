@@ -1,4 +1,5 @@
 # Bubble Sort -------> Time Complexity = O(n^2)
+# Select the maximum and put it to the last
 
 def bubble_sort(array):
     n = len(array)
